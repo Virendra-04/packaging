@@ -2,7 +2,7 @@
     "name": "virendra/my-php-package",
     "description": "project packaing",
     "type": "project",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": 
     {
         "php": ">=7.4"
